@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-with-html-and-css-Q_G9oz4O52)
-- Live Site URL: [https://zulfikarm321.github.io/Stats-preview-card-component-solution-Frontend-Mentor/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-html-and-css-Q_G9oz4O52)
+- Live Site URL: [github pages](https://zulfikarm321.github.io/Stats-preview-card-component-solution-Frontend-Mentor/)
 
 | Desktop                        | Mobile                        |
 | ------------------------------ | ----------------------------- |
